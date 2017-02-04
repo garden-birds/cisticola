@@ -1,5 +1,5 @@
 # Cisticola
-Cisticola is an open source interactive platform for performing quick scientific graph operations
+Cisticola is an open source **research based** interactive platform for performing quick scientific graph operations
 
 `Kyung Hee University, Computer Engineering Department,` :kr:
 
