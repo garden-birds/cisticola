@@ -15,5 +15,5 @@ Cisticola Is :hammer_and_wrench:
 - [x] Visualization
 
 
-## Tutorial
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/4FE79y_JkCE/0.jpg)](http://www.youtube.com/watch?v=4FE79y_JkCE)
+## Cisticola
+![Graph Theory](https://github.com/garden-birds/cisticola/blob/gh-pages/images/graphtheory-concepts.png)
