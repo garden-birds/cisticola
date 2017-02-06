@@ -3,7 +3,7 @@ Cisticola is an open source **research based** interactive platform for performi
 
 `Kyung Hee University, Computer Engineering Department, South Korea` :kr:
 
-Cisticola Is :hammer_and_wrench:
+Cisticola is under development :hammer_and_wrench:
 
 ### What is inside ?
 - [x] Scientific Operations
